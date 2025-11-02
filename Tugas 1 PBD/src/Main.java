@@ -100,7 +100,7 @@ public class Main {
 
         double totalAkhir = totalSetelahPajak - diskon;
         if (promoMinuman) {
-            totalAkhir -= 7000; // gratis 1 minuman
+            totalAkhir -= 7000;
         }
 
 
@@ -132,7 +132,7 @@ public class Main {
         input.close();
     }
 
-    // Method untuk menghitung total harga berdasarkan nama menu
+
     public static int hitungTotal(Menu[] daftar, String namaMenu, int jumlah) {
         int harga = 0;
 
