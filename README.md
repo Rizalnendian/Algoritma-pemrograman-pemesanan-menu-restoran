@@ -66,4 +66,8 @@ Program ini merupakan contoh sederhana dan dapat **dikembangkan lagi** dengan fi
 
 ---
 
-**Dibuat untuk memenuhi tugas perkuliahan**
+## 📌 Tentang Proyek
+
+Proyek ini dibuat untuk memenuhi tugas perkuliahan dan membantu memahami cara kerja algoritma sederhana dalam pemrograman, khususnya dalam menghitung komponen-komponen gaji karyawan.
+
+---
