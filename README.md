@@ -2,7 +2,7 @@
 
 # Algoritma Pemrograman Pemesanan Menu Restoran
 
-Repositori ini berisi implementasi **algoritma pemrograman sederhana** untuk sebuah sistem **pemesanan menu restoran** menggunakan **bahasa pemrograman Java**. Projek ini biasanya dibuat untuk keperluan tugas perkuliahan atau pembelajaran dasar tentang logika pemrograman, struktur data (array), dan pengendalian alur program.
+Repositori ini berisi implementasi **algoritma pemrograman sederhana** untuk sebuah sistem **pemesanan menu restoran** menggunakan **bahasa pemrograman Java**. Projek ini  dibuat untuk keperluan tugas perkuliahan atau pembelajaran dasar tentang logika pemrograman, struktur data (array), dan pengendalian alur program.
 
 ---
 
