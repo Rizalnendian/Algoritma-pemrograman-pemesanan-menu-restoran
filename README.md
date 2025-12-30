@@ -1,33 +1,47 @@
-Tentu, ini adalah draf fail `README.md` yang sesuai untuk repositori **Algoritma-pemrograman-pemesanan-menu-restoran**. Fail ini disusun agar nampak kemas dan profesional di profil GitHub anda.
-
----
-
 # Algoritma Pemrograman Pemesanan Menu Restoran 🍽️
 
-Repositori ini mengandungi pelaksanaan algoritma ringkas untuk sistem pesanan menu di restoran menggunakan bahasa pemrograman **Java**. Projek ini direka untuk membantu pemula memahami logik struktur data, tatasusunan (array), dan kawalan aliran dalam pengaturcaraan.
-
-## 📌 Ciri-ciri Program
-
-* **Paparan Menu**: Menampilkan senarai makanan dan minuman beserta harga.
-* **Input Pesanan**: Pengguna boleh memilih menu berdasarkan kod atau nombor.
-* **Pengiraan Automatik**: Sistem mengira jumlah harga berdasarkan kuantiti yang dipesan.
-* **Fitur Diskaun/Pajak**: (Jika ada) Pengiraan cukai atau potongan harga mengikut syarat tertentu.
-* **Ringkasan Pesanan**: Menampilkan resit atau jumlah bayaran akhir.
+Repositori ini berisi implementasi **algoritma pemrograman sederhana** dalam bentuk program Java untuk mensimulasikan **sistem pemesanan menu di restoran**. Program ini dibuat sebagai tugas atau latihan pemrograman dasar untuk memahami bagaimana struktur data, logika kontrol, dan interaksi dengan pengguna bekerja dalam sebuah aplikasi terminal/console.
 
 ---
 
-## 📖 Aliran Algoritma
+## 📌 Fitur Utama
 
-Program ini mengikuti logik pengaturcaraan seperti berikut:
+✨ Program ini memiliki beberapa fitur dasar berikut:
 
-1. **Inisialisasi**: Menyimpan data menu dan harga ke dalam tatasusunan (array).
-2. **Interaksi Pengguna**: Memaparkan menu dan meminta input pengguna menggunakan `Scanner`.
-3. **Logik Proses**: Menggunakan gelung (*looping*) untuk pesanan berulang dan `switch-case` atau `if-else` untuk pemilihan menu.
-4. **Output**: Menghasilkan jumlah bayaran yang perlu dibayar oleh pelanggan.
+- 📋 **Menampilkan Menu Restoran**  
+  Menampilkan daftar menu makanan dan minuman beserta harganya kepada pengguna.
 
-## 🛠 Prasyarat
+- 🧾 **Input Pesanan**  
+  Pengguna dapat memilih item menu berdasarkan kode/menu yang tersedia dan menentukan jumlah pesanan.
 
-* **Java Development Kit (JDK)** versi 8 atau yang terkini.
-* Editor kode seperti **VS Code**, **IntelliJ IDEA**, **NetBeans**, atau terminal.
+- 🧮 **Hitung Total Pesanan**  
+  Program akan menghitung total biaya pesanan secara otomatis berdasarkan pilihan dan jumlah yang dipilih.
+
+- 📊 **Ringkasan Pesanan**  
+  Menampilkan total harga akhir yang harus dibayar oleh pelanggan setelah semua input diproses.
+
+---
+
+## 🧠 Cara Kerja Algoritma
+
+Program mengikuti alur logika pemrograman sebagai berikut:
+
+1. **Inisialisasi Data Menu**  
+   Menyimpan daftar makanan dan minuman beserta harga dalam array atau struktur data sejenis.
+
+2. **Tampilan Menu ke Pengguna**  
+   Menu ditampilkan pada konsol agar pengguna dapat melihat item yang tersedia.
+
+3. **Input dari Pengguna**  
+   Pengguna memilih item serta jumlah pesanan menggunakan input `Scanner`. 
+
+4. **Proses Hitung Harga**  
+   Menggunakan perulangan (`loop`) untuk menghitung total berdasarkan input yang diberikan.
+
+5. **Output Total Harga**  
+   Program mencetak total biaya yang harus dibayar.
+
+---
+
 
 **Dibuat dengan untuk memenuhi tugas perkuliahan.**
