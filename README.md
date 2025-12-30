@@ -1,5 +1,5 @@
 
-````markdown
+
 # Algoritma Pemrograman Pemesanan Menu Restoran
 
 Repositori ini berisi implementasi **algoritma pemrograman sederhana** untuk sebuah sistem **pemesanan menu restoran** menggunakan **bahasa pemrograman Java**. Projek ini biasanya dibuat untuk keperluan tugas perkuliahan atau pembelajaran dasar tentang logika pemrograman, struktur data (array), dan pengendalian alur program.
@@ -43,23 +43,6 @@ Agar dapat menjalankan program ini, pastikan Anda telah:
 
 ---
 
-## 🚀 Cara Menjalankan Program
-
-1. **Clone repositori ini** ke komputer Anda:
-   ```bash
-   git clone https://github.com/Rizalnendian/Algoritma-pemrograman-pemesanan-menu-restoran.git
-````
-
-2. **Buka folder proyek** di editor/IDE favorit Anda.
-
-3. **Compile dan jalankan** file Java utama (misalnya `Main.java`) melalui IDE ataupun terminal:
-
-   ```bash
-   javac Main.java
-   java Main
-   ```
-
----
 
 ## 📚 Tujuan Pembelajaran
 
