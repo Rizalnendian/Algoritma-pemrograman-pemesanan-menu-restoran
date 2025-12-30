@@ -29,3 +29,5 @@ Program ini mengikuti logik pengaturcaraan seperti berikut:
 
 * **Java Development Kit (JDK)** versi 8 atau yang terkini.
 * Editor kode seperti **VS Code**, **IntelliJ IDEA**, **NetBeans**, atau terminal.
+
+**Dibuat dengan untuk memenuhi tugas perkuliahan.**
